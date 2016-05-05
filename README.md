@@ -1,0 +1,1 @@
+# smt.zsh-theme
