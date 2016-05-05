@@ -4,7 +4,7 @@ This is a modified version of smt.zsh-theme
 
 ## My modified version:
 
-[modified verison](screenshot.png)
+![modified verison](screenshot.png)
 
 ## Original:
 
