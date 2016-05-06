@@ -30,5 +30,5 @@ function prompt_char() {
   echo "%{$fg[cyan]%}❯❯%{$reset_color%}"
 }
 
-PROMPT='%{$fg[magenta]%}%n%{$reset_color%} 福 %{$fg[cyan]%}%~ %{$reset_color%}$(git_prompt_info)
+PROMPT='%{$fg[magenta]%}%n%{$reset_color%} %{$fg[yello]%}福 %{$fg[cyan]%}%~ %{$reset_color%}$(git_prompt_info)
 %{$fg[cyan]%}$(prompt_char) '
